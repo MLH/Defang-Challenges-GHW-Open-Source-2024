@@ -1,6 +1,6 @@
 # Welcome to the Defang GHW: Open Source Challenge Page!
 
-Hello hackers!Defang is the easiest way to develop, deploy, and debug cloud applications. <br><br>
+Hello hackers! Defang is the easiest way to develop, deploy, and debug cloud applications. <br><br>
 Defang takes you from Docker Compose to production-ready AWS deployments in minutes! <br><br> 
 If you're looking for a new and efficient way to deploy your projects to the cloud, checkout Defang's challenges!
 
@@ -26,7 +26,7 @@ If you're looking for a new and efficient way to deploy your projects to the clo
 ### Set up Defang CLI and Portal
 
 #### Objectives: 
-* Download and install the Defang CLI from the [Defang homepage](https://mlh.link/ghwos24) and register with Defang with your GitHub credentials using the ["defang login" command](https://mlh.link/ghwos24-defang-login). 
+* Download and install the Defang CLI from the [Defang homepage](https://mlh.link/ghwos24-samples) and register with Defang with your GitHub credentials using the ["defang login" command](https://mlh.link/ghwos24-defang-login). 
 * [Login to the Defang Portal](https://mlh.link/ghwos24-defang-portal) using your same GitHub credentials.
 * The sample app you deployed in Challenge 1 should be visible here.
 * Share a screenshot on our [submission form](https://mlh.link/ghwform)! 
